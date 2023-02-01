@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 7,
+      "name": "haroon",
+      "email": "haroon@gmail.com",
+      "phone": "03151716935",
+      "active": true
+    },
+    {
+      "name": "yasir",
+      "email": "yasir@gmail.com",
+      "phone": "12121",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "haroon",
+      "email": "haroonariff1999sgd@gmail.com",
+      "phone": "66666",
+      "active": "",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "ahmadharoon ",
+      "email": "ahmadharoon@gmail.com",
+      "phone": "12121",
+      "active": true
+    }
+  ]
+}
